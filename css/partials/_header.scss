@@ -1,0 +1,22 @@
+header {
+    font-family: 'kalam', cursive;
+    background: $green;
+    color: $fWhite;
+    text-transform: uppercase;
+}
+
+header h2 {
+    font-size: 1rem;
+}
+
+.bg-light {
+    background-color: $green !important;
+}
+
+.navbar-light .navbar-brand {
+    color: $fWhite;
+}
+
+.navbar-toggler {
+    filter: brightness(0) invert(1);
+}

@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,2FAAI;AGAZ,AAAA,IAAI,CAAC;EACD,UAAU,EFIH,OAAkB;CEH5B;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EAAE,QAAQ;CACtB;;AAED,AAAA,MAAM;AACN,IAAI,CAAC;EACD,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,UAAU,CAAC;EACP,WAAW,EAAE,uBAAuB;CACvC;;ACfD,AAAA,MAAM,CAAC;EACH,WAAW,EAAE,gBAAgB;EAC7B,UAAU,EHAN,OAAe;EGCnB,KAAK,EHKA,IAAI;EGJT,cAAc,EAAE,SAAS;CAC5B;;AAED,AAAA,MAAM,CAAC,EAAE,CAAC;EACN,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,SAAS,CAAC;EACN,gBAAgB,EHVZ,OAAe,CGUM,UAAU;CACtC;;AAED,AAAA,aAAa,CAAC,aAAa,CAAC;EACxB,KAAK,EHRA,IAAI;CGSZ;;AAED,AAAA,eAAe,CAAC;EACZ,MAAM,EAAE,aAAa,CAAC,SAAS;CAClC;;ACrBD,AAAA,MAAM,CAAC;EACH,UAAU,EJIH,OAAkB;CIH5B",
+    "sources": [
+        "style.scss",
+        "partials/_variables.scss",
+        "partials/_mixins.scss",
+        "partials/_global.scss",
+        "partials/_header.scss",
+        "partials/_about.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

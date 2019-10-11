@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Kalam:400,700|Quicksand:400,700&display=swap");
+body {
+  background: #dddddd;
+}
+
+h1 {
+  font-size: 19.68rem;
+}
+
+header,
+main {
+  display: none;
+}
+
+.container {
+  font-family: 'Quicksand', sans-serif;
+}
+
+header {
+  font-family: 'kalam', cursive;
+  background: #007250;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+header h2 {
+  font-size: 1rem;
+}
+
+.bg-light {
+  background-color: #007250 !important;
+}
+
+.navbar-light .navbar-brand {
+  color: #fff;
+}
+
+.navbar-toggler {
+  -webkit-filter: brightness(0) invert(1);
+          filter: brightness(0) invert(1);
+}
+
+.about {
+  background: #dddddd;
+}
+/*# sourceMappingURL=style.css.map */
