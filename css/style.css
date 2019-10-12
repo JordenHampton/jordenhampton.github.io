@@ -80,9 +80,8 @@ a:hover {
     -webkit-box-direction: normal;
         -ms-flex-flow: row;
             flex-flow: row;
-    -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
   }
   h4 {
     font-size: 1.5rem;
