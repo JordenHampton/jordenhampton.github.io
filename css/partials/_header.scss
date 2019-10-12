@@ -3,20 +3,18 @@ header {
     background: $green;
     color: $fWhite;
     text-transform: uppercase;
+    margin: 0 auto;
+    text-align: center;
 }
 
-header h2 {
-    font-size: 1rem;
+header h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding-top: 1.5rem;
+    margin-bottom: 1rem;
 }
 
-.bg-light {
-    background-color: $green !important;
-}
-
-.navbar-light .navbar-brand {
-    color: $fWhite;
-}
-
-.navbar-toggler {
-    filter: brightness(0) invert(1);
+header h3 {
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
 }
