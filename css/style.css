@@ -67,14 +67,20 @@ h4 {
 }
 
 a {
-  color: black;
+  color: #007250;
 }
 
 a:hover {
-  color: black;
+  color: #007250;
 }
 
 @media (min-width: 992px) {
+  header h1 {
+    font-size: 6rem;
+  }
+  header h3 {
+    font-size: 2.5rem;
+  }
   .projects {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -91,8 +97,8 @@ a:hover {
     margin: 0 0rem;
   }
   .about {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
   }
   .about h2 {
     font-size: 2rem;
